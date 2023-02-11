@@ -55,7 +55,7 @@ input:focus {
     justify-content: space-between;
     background: url("images/intro-bg.png");
     background-size: cover;
-    padding: 0 1.5em 1em 1.5em;
+    padding: 0 1.75em 1em 1.75em;
 }
 
 .top-text {
